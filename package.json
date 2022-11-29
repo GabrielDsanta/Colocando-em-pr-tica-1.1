@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "read-excel-file": "^5.5.3",
+    "validator": "^13.7.0"
+  }
+}
